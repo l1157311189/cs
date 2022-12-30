@@ -1,5 +1,5 @@
 <template>
-  <div>2222222</div>
+  <div>修改了B</div>
 </template>
 
 <script>
