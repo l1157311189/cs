@@ -1,5 +1,5 @@
 <template>
-  <div>修改了B分支内容,BBBBBBB</div>
+  <div>修改了B分支内容</div>
 </template>
 
 <script>
