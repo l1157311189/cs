@@ -1,5 +1,5 @@
 <template>
-  <div>我是B分支修改了内容</div>
+  <div>BBBBBB</div>
 </template>
 
 <script>
