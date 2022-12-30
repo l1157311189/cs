@@ -1,3 +1,3 @@
 <template>
-  <div>修改了A分支 , AAAAAA</div>
+  <div>修改了A分支</div>
 </template>
