@@ -1,5 +1,5 @@
 <template>
-  <div>B分支jjjlllllj</div>
+  <div>B分支修改</div>
 </template>
 
 <script>
