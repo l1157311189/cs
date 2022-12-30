@@ -1,5 +1,5 @@
 <template>
-  <div>修改了B分支内容,2022-12-30</div>
+  <div>修改了B分支内容,BBBBBBB</div>
 </template>
 
 <script>
