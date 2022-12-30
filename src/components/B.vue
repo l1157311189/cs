@@ -1,5 +1,5 @@
 <template>
-  <div>修改了B分支内容</div>
+  <div>再次修改B分支</div>
 </template>
 
 <script>
